@@ -1,4 +1,4 @@
-# 🙏 Tribute Page – Dr. APJ Abdul Kalam
+# Tribute Page – Dr. APJ Abdul Kalam
 
 A simple, elegant, and responsive tribute webpage dedicated to **Dr. A.P.J. Abdul Kalam**, the former President of India and the "Missile Man of India", known for his inspirational life, scientific achievements, and contributions to education.
 
